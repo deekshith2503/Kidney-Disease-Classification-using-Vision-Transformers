@@ -28,10 +28,10 @@ This project aims to build an **accurate, reliable, and explainable AI-based sys
 ## 📊 Results  
 
 | Model                | Accuracy | Precision | Recall | F1-Score |
-|-----------------------|----------|-----------|--------|----------|
-| Vision Transformer    | **96.37%** | 95.86%    | 95.24% | 95.55    |
-| ResNet50              | 94.26%   | -         | -      | -        |
-| VGG16                 | 92.85%   | -         | -      | -        |
+|-----------------------|---------|-----------|--------|----------|
+| Vision Transformer    | 96.37%   | 95.86%   | 95.24% | 95.55%   |
+| ResNet50              | 94.26%   | 93.73%   | 92.81% | 93.27%   |
+| VGG16                 | 92.85%   | 92.85%   | 90.71% | 91.06%   |
 
 ✅ **Vision Transformer outperformed CNN-based models** by effectively capturing **global spatial dependencies**.  
 ✅ **Grad-CAM** added **explainability**, building trust in clinical decision-making.  
