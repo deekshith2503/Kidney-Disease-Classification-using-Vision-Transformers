@@ -47,11 +47,3 @@ This project aims to build an **accurate, reliable, and explainable AI-based sys
 - **Optimization:** Adam, Early Stopping, Checkpointing  
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score  
 
----
-
-## ⚙️ Implementation  
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/kidney-disease-classification.git
-cd kidney-disease-classification
